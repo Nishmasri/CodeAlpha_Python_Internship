@@ -1,12 +1,12 @@
-# Hangman Game
+# Stock Portfolio Tracker
 
 ## Description
-A simple text-based Hangman game built using Python.
+A Python program that calculates stock investment values using predefined stock prices.
 
 ## Features
-- Random word selection
-- Limited attempts
-- Interactive gameplay
+- User input for stock names and quantities
+- Calculates total investment
+- Saves result to a text file
 
 ## Technologies Used
 - Python
