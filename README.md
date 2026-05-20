@@ -1,12 +1,12 @@
-# CodeAlpha Python Internship - Basic Chatbot
+# Hangman Game
 
 ## Description
-A simple rule-based chatbot built using Python.
+A simple text-based Hangman game built using Python.
 
 ## Features
-- Greets users
-- Answers simple questions
-- Exits when user types bye
+- Random word selection
+- Limited attempts
+- Interactive gameplay
 
 ## Technologies Used
 - Python
